@@ -5,61 +5,58 @@
 
 ## Theme and Storyline
 
-**Theme:**
+Game Theme: The Ultimate PC Build
 
 TODO: Name and briefly describe your game's theme.
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
-the player must gather, and the threat created by the villain.
+You are a software engineer tasked with building the world's most powerful computer. To complete the project, you must travel through different areas of a technology campus and collect the essential computer components. However, a malicious hacker known as The Glitch is trying to sabotage your work. You must gather all the computer parts before entering the Hacker's Hideout. If you encounter The Glitch before collecting all the parts, you lose. If you collect all the parts first and then confront The Glitch, you win and complete the Ultimate PC Build.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Engineering Office (Start Room)
+2. Processor Lab
+3. Graphics Department
+4. Memory Center
+5. Storage Room
+6. Power Systems Lab
+7. Network Operations Center
+8. Quality Assurance Lab
+9. Hacker's Hideout (Villain Room)om
 
-Add more rooms if your design needs them.
 
 ## Items
 
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. CPU
+2. GPU
+3. RAM
+4. SSD
+5. Power Supply
+6. Network Card
+7. Cooling System
 
-If you add rooms beyond the minimum, add an item for every additional room
-except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Glitch (Malicious Hacker)
 
 ## Storyboard and Map Check
 
-Before submitting, compare this storyboard with `game_map.drawio`.
-
-* [ ] I included eight (8) rooms.
-* [ ] I included six (6) collectable items.
-* [ ] The start room has no item.
-* [ ] The villain room has no item.
-* [ ] Every room except the start room and villain room contains one item.
-* [ ] Room, item, and villain names match my map.
-* [ ] The map allows the player to collect all required items before the
-  villain is encountered.
+[Processor Lab]
+|
+[Network Operations]
+|
+[Graphics Department] -- [Engineering Office] -- [Memory Center]
+| |
+[Storage Room] [Power Systems Lab]
+| |
+[Quality Assurance Lab] ----------- [Hacker's Hideout]
 
 ## Project Two Handoff
 
